@@ -21,7 +21,7 @@ footer p{
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(219, 169, 129);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
@@ -31,7 +31,7 @@ footer p{
     height: 100%;
 }
 .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(194, 116, 103);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
