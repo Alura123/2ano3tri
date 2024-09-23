@@ -15,3 +15,8 @@ criaCartao(
     'Tem uma escola e um trio de amigos.',
     'Harry Potter.'
 )
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz OI em inglês?',
+    'Oi em ingles é HI (RAI)'
+) 
