@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Países',
+    'Qual o país menos povoado do mundo?',
+    'Mongólia'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Qual o menor orgão do corpo?',
+    'glândula pineal'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz casa em Inglês?',
-    'Casa em inglês é house (rausi)'
+    'Esportes',
+    'Quanto tempo durou a maior partida de xadrez?',
+    '20 horas e 15 minutos, com 269 lances (538 movimentos de peças), em 1989, sem interrupção.'
 )
