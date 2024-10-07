@@ -1,22 +1,23 @@
 criaCartao(
-    'Que livro é esse?',
-    'Uma princesa perdida que precisa retomar o trono e enfrentar inimigos..',
-    'Trono de VIdro.'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Que série é essa?',
-    'Investigação de casos.',
-    'CSI: Crime Scene Investigation.'
+    'Curiosidades',
+    'Qual o país do vinho?',
+    'Itália'
 )
 
 criaCartao(
-    'Que filme é esse?',
-    'Tem uma escola e um trio de amigos.',
-    'Harry Potter.'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
+
 criaCartao(
     'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
-) 
+    'Como se diz casa em Inglês?',
+    'Casa em inglês é house (rausi)'
+)
