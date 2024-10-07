@@ -1,6 +1,6 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #ff0000;
+    --card-front-color: #0026ff;
     --card-back-color: #ffffff;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: rgb(228, 140, 140);
+    background-color: rgb(140, 181, 228);
     color: rgb(255, 255, 255);
     position: fixed;
     bottom: 0;
